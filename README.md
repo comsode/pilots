@@ -13,7 +13,7 @@ Need more information? Look here:
 - [COMSODE project website](http://www.comsode.eu/) -- general project information.
 - [COMSODE blog](http://www.comsode.eu/index.php/blog/) -- reading about project updates, Open Data,...
 - [COMSODE deliverables](http://www.comsode.eu/index.php/deliverables/) -- project deliverables. Methodologies will be probably of special interest.
-- [demo.comsode.eu](http://demo.comsode.eu/) -- public server: demo of the publication platform (try it out!).
+- [demo.comsode.eu](http://demo.comsode.eu/) -- public server: demo of the publication platform (if you'd like to try it out, please contact us, contact below).
 - [data.comsode.eu](http://data.comsode.eu/) -- data published by COMSODE.
 - [Open Data Node roadmap & releases](https://utopia.sk/wiki/display/ODN/Roadmap+and+releases).
 
