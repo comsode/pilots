@@ -15,7 +15,9 @@ Need more information? Look here:
 - [COMSODE deliverables](http://www.comsode.eu/index.php/deliverables/) -- project deliverables. Methodologies will be probably of special interest.
 - [demo.comsode.eu](http://demo.comsode.eu/) -- public server: demo of the publication platform (try it out!).
 - [data.comsode.eu](http://data.comsode.eu/) -- data published by COMSODE.
+- [Open Data Node roadmap & releases](https://utopia.sk/wiki/display/ODN/Roadmap+and+releases).
 
 ## Resources for pilot managers
 
-Resources for communication are at the project wiki: [English](https://team.eea.sk/wiki/display/COMSODE/PILOT+materials+for+communication+-+ENG+version), [Slovak](https://team.eea.sk/wiki/display/COMSODE/PILOT+materials+for+communication+-+SK+version).
+- Resources for communication -- private wiki: [English](https://team.eea.sk/wiki/display/COMSODE/PILOT+materials+for+communication+-+ENG+version), [Slovak](https://team.eea.sk/wiki/display/COMSODE/PILOT+materials+for+communication+-+SK+version).
+- [Google groups](https://groups.google.com/forum/#!forum/comsodepilots) -- when communicating about pilots, please send a copy to [comsodepilots@googlegroups.com](mailto:comsodepilots@googlegroups.com).
