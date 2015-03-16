@@ -21,3 +21,7 @@ Need more information? Look here:
 
 - Resources for communication -- private wiki: [English](https://team.eea.sk/wiki/display/COMSODE/PILOT+materials+for+communication+-+ENG+version), [Slovak](https://team.eea.sk/wiki/display/COMSODE/PILOT+materials+for+communication+-+SK+version).
 - [Google groups](https://groups.google.com/forum/#!forum/comsodepilots) -- when communicating about pilots, please send a copy to [comsodepilots@googlegroups.com](mailto:comsodepilots@googlegroups.com).
+
+## Contact
+
+For questions regarding the pilots, contact the COMSODE consortium member you have been in contact with. If you don't know whom to contact or you are a new organization interested in running a pilot, please contact [Jan Gondol](mailto:gondol@gondol.sk).
