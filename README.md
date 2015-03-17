@@ -22,6 +22,18 @@ Need more information? Look here:
 - Resources for communication -- private wiki: [English](https://team.eea.sk/wiki/display/COMSODE/PILOT+materials+for+communication+-+ENG+version), [Slovak](https://team.eea.sk/wiki/display/COMSODE/PILOT+materials+for+communication+-+SK+version).
 - [Google groups](https://groups.google.com/forum/#!forum/comsodepilots) -- when communicating about pilots, please send a copy to [comsodepilots@googlegroups.com](mailto:comsodepilots@googlegroups.com).
 
+## Hardware and Software requirements
+
+**Server hardware**: common x86_64 compatible CPU (2-4 cores recommended for heavier transformations), 4GB RAM (more for heavy transformations, e.g. 8GB), 40GB storage. ODN has been tested on modest VPS (and laptops) for testing and demonstration purposes. You should deploy it with real data, see the usage patterns and adjust the virtual machine parameters accordingly.
+
+**Server software**: Linux (Debian 7.6 "wheezy"), OpenJDK 7, [Apache Tomcat 7+](http://tomcat.apache.org/), [Sesame 2.7.13+](http://sourceforge.net/projects/sesame/files/Sesame%202/) or Virtuoso 7.0+ (not yet fully supported as of March 2015) for intermediate data store for data processed on the pipeline, PostgreSQL.
+
+**Client software** (for accessing ODN): reasonably recent web browser (Google Chrome 23+, Internet Explorer 8+, Mozilla Firefox 17+, Opera 12+, Safari 6+).
+
+**Developer software** (only if you intend to develop your own plugins): Java IDE (Netbeans, Eclipse), [Apache Maven 3](http://maven.apache.org/), [Git](http://git-scm.com/downloads).
+
+(Source: [internal wiki](https://utopia.sk/wiki/display/ODN/HW+and+SW+requirements+for+ODN).)
+
 ## Contact
 
 For questions regarding the pilots, contact the COMSODE consortium member you have been in contact with. If you don't know whom to contact or you are a new organization interested in running a pilot, please contact [Jan Gondol](mailto:gondol@gondol.sk).
