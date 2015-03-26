@@ -17,6 +17,11 @@ Need more information? Look here:
 - [data.comsode.eu](http://data.comsode.eu/) -- data published by COMSODE.
 - [Open Data Node roadmap & releases](https://utopia.sk/wiki/display/ODN/Roadmap+and+releases).
 
+The transformation component in Open Data Node is called "Unified Views" (technically speaking, it is an [ETL tool](https://en.wikipedia.org/wiki/Extract,_transform,_load) for [RDF data](https://en.wikipedia.org/wiki/Resource_Description_Framework)). The following information is related to Unified Views.
+
+- [UnifiedViews GitHub repository](https://github.com/UnifiedViews).
+- [UnifiedViews Documentation](https://grips.semantic-web.at/display/UDDOC/Introduction).
+
 ## Resources for pilot managers
 
 - Resources for communication -- private wiki: [English](https://team.eea.sk/wiki/display/COMSODE/PILOT+materials+for+communication+-+ENG+version), [Slovak](https://team.eea.sk/wiki/display/COMSODE/PILOT+materials+for+communication+-+SK+version).
