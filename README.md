@@ -25,6 +25,8 @@ The transformation component in Open Data Node is called "Unified Views" (techni
 
 ## Resources for pilot managers
 
+We strive to make outputs available publicly, fast. Some "work-in-progress" resources are shared internally. Here are some useful ones for the pilot project managers:
+
 - Resources for communication: [English](https://team.eea.sk/wiki/display/COMSODE/PILOT+materials+for+communication+-+ENG+version), [Slovak](https://team.eea.sk/wiki/display/COMSODE/PILOT+materials+for+communication+-+SK+version) (:no_entry_sign: not public, internal wiki).
 - [Status of ODN documentation](https://team.eea.sk/wiki/display/COMSODE/Documentation+for+ODN+-+public) (:no_entry_sign: not public, internal wiki).
 - [Google groups](https://groups.google.com/forum/#!forum/comsodepilots) -- when communicating about pilots, please send a copy to [comsodepilots@googlegroups.com](mailto:comsodepilots@googlegroups.com).
