@@ -4,7 +4,7 @@ Information about pilot installations in the [COMSODE](http://www.comsode.eu/) p
 
 ## Who is participating?
 
-There are **organizations in several countries** expected to participate in the pilots (Czech Republic, Italy, Netherlands, Slovakia). Since some organizations only confirmed their interest informally, their list is available on the [private project wiki](https://team.eea.sk/wiki/display/COMSODE/Pilot+Cases+-+work+area) at this time.
+There are **organizations in several countries** expected to participate in the pilots (Czech Republic, Italy, Netherlands, Slovakia). Since some organizations only confirmed their interest informally, their list is available on the :no_entry_sign: [internal wiki](https://team.eea.sk/wiki/display/COMSODE/Pilot+Cases+-+work+area) at this time.
 
 ## Resources for participating organizations
 
@@ -41,7 +41,7 @@ We strive to make outputs available publicly, fast. Some "work-in-progress" reso
 
 **Developer software** (only if you intend to develop your own plugins): Java IDE (Netbeans, Eclipse), [Apache Maven 3](http://maven.apache.org/), [Git](http://git-scm.com/downloads).
 
-(Source: [internal wiki](https://utopia.sk/wiki/display/ODN/HW+and+SW+requirements+for+ODN).)
+(Source: :no_entry_sign: [internal wiki](https://utopia.sk/wiki/display/ODN/HW+and+SW+requirements+for+ODN).)
 
 ## Contact
 
