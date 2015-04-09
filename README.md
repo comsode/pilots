@@ -8,6 +8,12 @@ COMSODE is an international project which has three main outputs: 1) **software*
 
 The project **started in late 2013** an will end in 2015 but since the outputs are released under an open license, software and methodologies can live on well beyond 2015.
 
+## What are COMSODE pilots?
+
+To make sure software works as expected and that methodologies are useful, COMSODE team members will **work closely with selected organizations** running a pilot program, collect feedback and find ways to implement it.
+
+While we intend to prioritize our resources on the organizations running the pilots, we also encourage **other interested parties** to download, install and use Open Data Node and read through our methodologies. The end goal is help organizations publish their data, so if you have feedback you would like to share, please [let us know](http://www.comsode.eu/index.php/consortium/)!
+
 ## Who is participating?
 
 There are **organizations in several countries** expected to participate in the pilots (Czech Republic, Italy, Netherlands, Slovakia). Since some organizations only confirmed their interest informally, their list is available on the :no_entry_sign: [internal wiki](https://team.eea.sk/wiki/display/COMSODE/Pilot+Cases+-+work+area) at this time.
