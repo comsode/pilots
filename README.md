@@ -2,6 +2,12 @@
 
 Information about pilot installations in the [COMSODE](http://www.comsode.eu/) project. Purpose: provide quick links for those participating in the pilots.
 
+## What is COMSODE?
+
+COMSODE is an international project which has three main outputs: 1) **software** Open Data Node ("ODN" helps with managing a data catalog and publishing data), 2) **methodologies** (best practices for publishing data in open formats) and 3) **published data** (using our own software and our own methodologies -- "eating our own dog food").
+
+The project **started in late 2013** an will end in 2015 but since the outputs are released under an open license, software and methodologies can live on well beyond 2015.
+
 ## Who is participating?
 
 There are **organizations in several countries** expected to participate in the pilots (Czech Republic, Italy, Netherlands, Slovakia). Since some organizations only confirmed their interest informally, their list is available on the :no_entry_sign: [internal wiki](https://team.eea.sk/wiki/display/COMSODE/Pilot+Cases+-+work+area) at this time.
