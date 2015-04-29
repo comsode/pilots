@@ -18,6 +18,12 @@ While we intend to prioritize our resources on the organizations running the pil
 
 There are **organizations in several countries** expected to participate in the pilots (Czech Republic, Italy, Netherlands, Slovakia). Since some organizations only confirmed their interest informally, their list is available on the :no_entry_sign: [internal wiki](https://team.eea.sk/wiki/display/COMSODE/Pilot+Cases+-+work+area) at this time.
 
+## Open Data Node (COMSODE software tool) screencast
+
+To give you a quick overview of Open Data Node (software produced by COMSODE which will let you create an internal data catalog and allow you to publish datasets), you can have a look at the video below. The current screencast is based on a pre-release of Open Data Node and is in the Czech language. We intend to replace this with an English-language version based on final version of ODN after the release.
+
+[![Open Data Node screencast](http://img.youtube.com/vi/M5bgXeZ5b0o/0.jpg)](http://www.youtube.com/watch?v=M5bgXeZ5b0o)
+
 ## Resources for participating organizations
 
 Need more information? Look here:
