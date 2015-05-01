@@ -34,7 +34,7 @@ Need more information? Look here:
 - [demo.comsode.eu](http://demo.comsode.eu/) -- public server: demo of the publication platform (if you'd like to try it out, please contact us, contact below).
 - [data.comsode.eu](http://data.comsode.eu/) -- data published by COMSODE.
 - [Open Data Node roadmap & releases](https://utopia.sk/wiki/display/ODN/Roadmap+and+releases).
-- [Open Data Node installation manual](https://utopia.sk/wiki/display/ODN/Open+Data+Node+v1.0.0).
+- [Open Data Node installation manual](https://utopia.sk/wiki/display/ODN/Open+Data+Node+v1.0.1).
 
 The transformation component in Open Data Node is called "Unified Views" (technically speaking, it is an [ETL tool](https://en.wikipedia.org/wiki/Extract,_transform,_load) for [RDF data](https://en.wikipedia.org/wiki/Resource_Description_Framework)). The following information is related to Unified Views.
 
