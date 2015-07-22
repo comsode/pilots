@@ -39,6 +39,7 @@ Need more information? Look here:
 The transformation component in Open Data Node is called "Unified Views" (technically speaking, it is an [ETL tool](https://en.wikipedia.org/wiki/Extract,_transform,_load) for [RDF data](https://en.wikipedia.org/wiki/Resource_Description_Framework)). The following information is related to Unified Views.
 
 - [UnifiedViews GitHub repository](https://github.com/UnifiedViews).
+- [UnifiedViews Plugins used in COMSODE](https://github.com/comsode-uv-plugins).
 - [UnifiedViews Documentation](https://grips.semantic-web.at/display/UDDOC/Introduction).
 
 ## Resources for pilot managers
