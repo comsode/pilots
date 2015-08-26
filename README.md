@@ -36,7 +36,7 @@ Need more information? Look here:
 - [Open Data Node website](http://opendatanode.org/).
 - [Open Data Node GitHub repository](https://github.com/OpenDataNode).
 - [Open Data Node roadmap & releases](https://utopia.sk/wiki/display/ODN/Roadmap+and+releases).
-- [Open Data Node installation manual](https://utopia.sk/wiki/display/ODN/Open+Data+Node+v1.1.0).
+- [Open Data Node installation manual](https://utopia.sk/wiki/display/ODN/Open+Data+Node+v1.1.2).
 
 The transformation component in Open Data Node is called "Unified Views" (technically speaking, it is an [ETL tool](https://en.wikipedia.org/wiki/Extract,_transform,_load) for [RDF data](https://en.wikipedia.org/wiki/Resource_Description_Framework)). The following information is related to Unified Views.
 
