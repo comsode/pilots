@@ -6,7 +6,7 @@ Information about pilot installations in the [COMSODE](http://www.comsode.eu/) p
 
 COMSODE is an international project which has three main outputs: 1) **software** Open Data Node ("ODN" helps with managing a data catalog and publishing data), 2) **methodologies** (best practices for publishing data in open formats) and 3) **published data** (using our own software and our own methodologies -- "eating our own dog food").
 
-The project **started in late 2013** an will end in 2015 but since the outputs are released under an open license, software and methodologies can live on well beyond 2015.
+The project **started in late 2013** and ended in 2015 but since the outputs are released under an open license, software and methodologies can live on well beyond 2015. Open Data Node version 1.3.0, which was released on May 24th, 2016, was the first feature-release (with new functionality and improvements) prepared by [EEA company](http://www.eea.sk/en/) in cooperation with other partners and Open Source community after the end of the COMSODE project.
 
 ## What are COMSODE pilots?
 
@@ -36,7 +36,7 @@ Need more information? Look here:
 - [Open Data Node website](http://opendatanode.org/).
 - [Open Data Node GitHub repository](https://github.com/OpenDataNode).
 - [Open Data Node roadmap & releases](https://utopia.sk/wiki/display/ODN/Roadmap+and+releases).
-- [Open Data Node installation manual](https://utopia.sk/wiki/display/ODN/Open+Data+Node+v1.1.2).
+- [Open Data Node release notes and installation manual](https://github.com/OpenDataNode/open-data-node/releases/tag/ODN_v1.3.0).
 
 The transformation component in Open Data Node is called "Unified Views" (technically speaking, it is an [ETL tool](https://en.wikipedia.org/wiki/Extract,_transform,_load) for [RDF data](https://en.wikipedia.org/wiki/Resource_Description_Framework)). The following information is related to Unified Views.
 
